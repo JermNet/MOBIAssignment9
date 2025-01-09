@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">M04_GUI_01</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_my_version">Get My Version</string>
+    <string name="normal_portrait_screen">Normal Portrait Screen</string>
+    <string name="normal_landscape_screen">Normal Landscape Screen</string>
+    <string name="a_plus_sign">+</string>
+    <string name="a_subtract_sign">-</string>
+    <string name="a_multiply_sign">*</string>
+    <string name="a_division_sign">/</string>
+    <string name="large_portrait_screen">Large Portrait Screen</string>
+    <string name="large_landscape_screen">Large Landscape Screen</string>
+    <string name="xlarge_portrait_screen">XLarge Portrait Screen</string>
+    <string name="xlarge_landscape_screen">XLarge Landscape Screen</string>
+    <string name="enter_a_number">19</string>
+    <string name="kramerica">Kramerica</string>
+    <string name="narc">Narc</string>
+</resources>
